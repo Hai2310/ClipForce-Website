@@ -1,0 +1,6 @@
+{
+  "name": "ClipForce — Desktop Video Clipper & Repurposing Studio",
+  "description": "High-converting marketing homepage for ClipForce, a local-first desktop software that transforms long videos into viral short-form clips with highlight detection, auto subtitles, and multi-platform publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
